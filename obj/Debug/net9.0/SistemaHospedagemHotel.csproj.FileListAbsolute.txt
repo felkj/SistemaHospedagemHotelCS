@@ -1,0 +1,14 @@
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\bin\Debug\net9.0\SistemaHospedagemHotel.exe
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\bin\Debug\net9.0\SistemaHospedagemHotel.deps.json
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\bin\Debug\net9.0\SistemaHospedagemHotel.runtimeconfig.json
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\bin\Debug\net9.0\SistemaHospedagemHotel.dll
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\bin\Debug\net9.0\SistemaHospedagemHotel.pdb
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\SistemaHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\SistemaHospedagemHotel.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\SistemaHospedagemHotel.AssemblyInfo.cs
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\SistemaHospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\SistemaHospedagemHotel.dll
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\refint\SistemaHospedagemHotel.dll
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\SistemaHospedagemHotel.pdb
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\SistemaHospedagemHotel.genruntimeconfig.cache
+C:\Users\felip\Downloads\TodosProjetosNaPastaDownload\Projetos-dotNET\SistemaHospedagemHotel\obj\Debug\net9.0\ref\SistemaHospedagemHotel.dll
